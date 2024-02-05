@@ -1,0 +1,124 @@
+{
+    "artists": [
+      {
+        "id": 1,
+        "name": "Foo Fighters",
+        "genre": "Rock",
+        "urlImg": "https://i.scdn.co/image/ab67616100005174c884df599abc793c116cdf15"
+      },
+      {
+        "id": 2,
+        "name": "Michael Jackson",
+        "genre": "Pop",
+        "urlImg": "https://i.scdn.co/image/ab676161000051740e08ea2c4d6789fbf5cbe0aa"
+      },
+      {
+        "id": 3,
+        "name": "Liu",
+        "genre": "Techno",
+        "urlImg": "https://i.scdn.co/image/ab6761610000e5ebf55d343308b2a72713f9dc0d"
+      },
+      {
+        "id": 4,
+        "name": "Dubdogz",
+        "genre": "Techno",
+        "urlImg": "https://i.scdn.co/image/ab6761610000e5ebaab00c1711a8c59b15169a38"
+      },
+      {
+        "id": 5,
+        "name": "Alok",
+        "genre": "Techno",
+        "urlImg": "https://i.scdn.co/image/ab67616100005174f7d1bdca65e1cefd4e60c379"
+      },
+      {
+        "id": 6,
+        "name": "INTERWORLD ",
+        "genre": "Phonk",
+        "urlImg": "https://i.scdn.co/image/ab67616d0000b273b852a616ae3a49a1f6b0f16e"
+      },
+      {
+        "id": 7,
+        "name": "Vintage Culture",
+        "genre": "Techno",
+        "urlImg": "https://i.scdn.co/image/ab6761610000e5eb3c25c102ad2fc73a3379326a"
+      },
+      {
+        "id": 8,
+        "name": "David Guetta",
+        "genre": "EDM",
+        "urlImg": "https://i.scdn.co/image/ab6775700000ee8584cba18c785589cd465e3cb5"
+      },
+      {
+        "id": 9,
+        "name": "Red Hot Chili Peppers",
+        "genre": "Rock",
+        "urlImg": "https://i.scdn.co/image/ab6761610000e5ebc33cc15260b767ddec982ce8"
+      },
+      {
+        "id": 10,
+        "name": "Alan Walker",
+        "genre": "Techno",
+        "urlImg": "https://i.scdn.co/image/ab6761610000e5ebbf753c009fd9c2d53351dd3c"
+      },
+      {
+        "id": 11,
+        "name": "Calvin Harris",
+        "genre": "EDM",
+        "urlImg": "https://i.scdn.co/image/ab6761610000e5eb37bff6aa1d42bede9048750f"
+      },
+      {
+        "id": 12,
+        "name": "Lost Frequencies",
+        "genre": "EDM",
+        "urlImg": "https://i.scdn.co/image/ab676161000051746a77aaa2cde6783b1ca727e9"
+      },
+      {
+        "id": 13,
+        "name": "Martin Garrix",
+        "genre": "EDM",
+        "urlImg": "https://i.scdn.co/image/ab6761610000517445c3688488f871aace7a4a57"
+      },
+      {
+        "id": 14,
+        "name": "Cat Dealers",
+        "genre": "EDM",
+        "urlImg": "https://i.scdn.co/image/ab6761610000e5eb8408cd8cacba62e22ea3a0a9"
+      },
+      {
+        "id": 15,
+        "name": "Dimitri Vegas & Like Mike",
+        "genre": "EDM",
+        "urlImg": "https://i.scdn.co/image/ab6761610000e5ebf319fd80496191bcc778f854"
+      },
+      {
+        "id": 16,
+        "name": "Milky Chance",
+        "genre": "Pop",
+        "urlImg": "https://i.scdn.co/image/ab6761610000e5eb7c4c8abfbf97a72b2624fdf4"
+      },
+      {
+        "id": 17,
+        "name": "Avicii",
+        "genre": "EDM",
+        "urlImg": "https://i.scdn.co/image/ab6761610000e5ebae07171f989fb39736674113"
+      },
+      {
+        "id": 18,
+        "name": "Oliver Tree",
+        "genre": "Indie",
+        "urlImg": "https://i.scdn.co/image/ab67616d00001e02bf5af474b6ed745faf53f508"
+      },
+      {
+        "id": 19,
+        "name": "Post Malone",
+        "genre": "Hip-Hop",
+        "urlImg": "https://i.scdn.co/image/ab6761610000e5eb6be070445b03e0b63147c2c1"
+      },
+      {
+        "id": 20,
+        "name": "Panic! At The Disco",
+        "genre": "Pop",
+        "urlImg": "https://i.scdn.co/image/ab6761610000e5ebb256ae9a4b82bfff97776ae2"
+      }
+    ]
+  }
